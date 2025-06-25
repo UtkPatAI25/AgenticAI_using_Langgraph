@@ -93,6 +93,3 @@ See `requirements.txt` for all dependencies. Key libraries:
 
 See [LICENSE](LICENSE) for details.
 
----
-
-**Inspired by LangGraph's agentic workflow capabilities.**
