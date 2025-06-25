@@ -1,0 +1,11 @@
+langchain-core
+langgraph
+langgraph-prebuilt
+langchain-openai
+langchain-agents
+langchain-community
+gradio
+python-dotenv
+requests
+pydantic
+uuid
